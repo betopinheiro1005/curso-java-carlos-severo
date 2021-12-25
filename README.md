@@ -1,8 +1,7 @@
 # Curso de Java  
 ## Carlos Emílio Padilla Severo  
 
-### Link dos vídeos  
-<https://www.youtube.com/watch?v=oH6rDvPaAew&list=PLqmCwMNmP1Ix0MMUoBHsCY7Fyzk2kotbg>
+### [Vídeos do curso](https://www.youtube.com/watch?v=oH6rDvPaAew&list=PLqmCwMNmP1Ix0MMUoBHsCY7Fyzk2kotbg)
 
 ### Lista de aulas  
 
